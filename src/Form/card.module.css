@@ -1,0 +1,8 @@
+.background {
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.background:hover {
+  transform: translate(10px, -10px);
+  filter: drop-shadow(0 0 20px);
+}
